@@ -1,10 +1,30 @@
 body {
     background-color: #fca8ff;
 }
-.hi12 {
+
+.blogtitle {
     text-align: center;
     font-family: 'Dancing Script', cursive;
     margin: 50px;
-    font-size: 50px;
+   
     
+}
+
+.Seraphine {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: aqua;
+    text-align: center;
+   
+
+}
+.STP{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+.SFP{
+    width: 50vw;
+    height: 60vh;
 }
