@@ -6,17 +6,18 @@ body {
     text-align: center;
     font-family: 'Dancing Script', cursive;
     margin: 50px;
-font-size: 60px;
+    font-size: 60px;
 
 }
-#LOGO{
+
+#LOGO {
     width: 10vw;
     height: 17vh;
     position: absolute;
-            top: 10px;
-            right: 10px;
-            font-size: 24px;
-           
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+
 }
 
 .Blog {
@@ -34,22 +35,22 @@ font-size: 60px;
 
 .STP1 {
     font-size: 50px;
-  
-    
+
+
 }
+
 .STP2 {
     font-size: 45px;
-   
-    
+
+
 }
 
 .STP3 {
     font-size: 30px;
-    
+
 }
 
 .SFP {
     width: 50vw;
     height: 60vh;
 }
-
